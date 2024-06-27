@@ -6,7 +6,7 @@
     },
     "/payment-intents": {
       "post": {
-        "operationId": "createPaymentIntent",
+        "operationId": "create Payment Intent",
         "summary": "Create a new Payment Intent",
         "parameters": [],
         "requestBody": {
